@@ -4,25 +4,24 @@
 
 # Carátula
 
-## Instituto / Universidad
-[Nombre de tu escuela]
+##  Universidad
+[TECNOLOGICO DE ESTUDIOS SUPERIORES DE ORIENTE DEL ESTADO DEM MEXICO]
 
 ## Carrera
 Ingeniería en Sistemas Computacionales
 
 ## Materia
-[Nombre de la materia]
+[TALLER DE SISTEMAS OPERATIVOS]
 
 ## Proyecto
 Implementación de servidor NGINX compilado desde código fuente
 
 ## Docente
-[Nombre del profesor]
+[Gustavo Moisés Romero González]
 
 ## Integrantes
-- Marco [Apellido]
-- Integrante 2
-- Integrante 3
+- MARCO ANTONIO SOLIS FLORES
+- RIVERA CONTRERAS CHRISTIAN GERARDO 
 
 ## Fecha
 25 de mayo de 2026
